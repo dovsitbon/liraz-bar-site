@@ -20,7 +20,7 @@ const R = (n) => {
 // [source (dans assets/), catégorie, nom, recadrage facultatif en fractions {left, right}]
 const PICKS = [
   // Hero : le slow de la bar-mitsva d'Osher (famille Mishayev, mai 2026), étincelles froides et fumée lourde
-  [R("02"), "hero", "slow-etincelles"],
+  [R("02"), "hero", "slow-etincelles", { left: 0, right: 0.9 }], // recadré : retire le logo du photographe en bas à droite
 
   // Bar et bat-mitsva
   [R("23"), "bar-bat-mitsva", "arches-bar-mitzvah"],
