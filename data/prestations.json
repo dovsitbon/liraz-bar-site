@@ -1,0 +1,9 @@
+{
+  "_note": "Prestations. priceFrom = prix « à partir de » en shekels, À REMPLIR si Liraz veut l'afficher (null = « sur devis »). Les textes sont dans locales/*.json → services.items.",
+  "items": [
+    { "id": "full", "image": "/media/bar-bat-mitsva/bat-mitzvah-oriya.jpg", "priceFrom": null },
+    { "id": "dayof", "image": "/media/prives/gala-lfa.jpg", "priceFrom": null },
+    { "id": "design", "image": "/media/decoration/bar-sucre-roses.jpg", "priceFrom": null },
+    { "id": "vendors", "image": "/media/decoration/artiste-led.jpg", "priceFrom": null }
+  ]
+}

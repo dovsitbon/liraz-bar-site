@@ -1,0 +1,13 @@
+{
+  "_note": "Infos pratiques À CONFIRMER avec Liraz. regions : liste de lieux pour le schema areaServed (null = Israël). regionsLabel : texte affiché.",
+  "_sources": "Instagram @lirazbar02 (relu le 10 novembre 2026) : événement à Akko (Select Car), « סטודיו צפון », livraisons « בצפון », une soirée à Jérusalem. Région supposée : Nord d'Israël, à confirmer.",
+  "regions": null,
+  "regionsLabel": {
+    "he": "צפון הארץ, ובכל הארץ בתיאום מראש",
+    "en": "Northern Israel, and nationwide by arrangement",
+    "fr": "Nord d’Israël, et partout dans le pays sur demande",
+    "es": "Norte de Israel, y todo el país previa consulta"
+  },
+  "regionsConfirmed": false,
+  "email": null
+}

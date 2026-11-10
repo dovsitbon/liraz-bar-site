@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "title": "Organización de bodas, bar y bat mitzvá y eventos | Liraz Bar",
+    "description": "Liraz Bar, productora de eventos en Israel: bodas, bar y bat mitzvá y fiestas privadas, decoración y coordinación el día del evento. Consulta tu fecha por WhatsApp.",
+    "ogAlt": "Un baile lento en un bar mitzvá, entre chispas frías y humo bajo"
+  },
+  "intro": { "skip": "Saltar" },
+  "nav": {
+    "skip": "Ir al contenido",
+    "home": "Liraz Bar, inicio",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "language": "Idioma",
+    "weddings": "Bodas",
+    "mitzvah": "Bar/Bat mitzvá",
+    "private": "Eventos privados",
+    "design": "Decoración",
+    "events": "Nuestros eventos",
+    "about": "Sobre mí",
+    "contact": "Contacto",
+    "check": "Consultar fecha"
+  },
+  "announce": { "close": "Cerrar el aviso" },
+  "hero": {
+    "eyebrow": "Producción de eventos · Bodas · Bar y bat mitzvá · Decoración",
+    "title": "De la primera idea al último baile",
+    "text": "Produzco, decoro y dirijo vuestro evento, para que vosotros solo tengáis que ser invitados en vuestra propia fiesta.",
+    "cta": "Consultar fecha",
+    "secondary": "Ver nuestros eventos",
+    "proof": "{n} seguidores en Instagram · produciendo eventos desde {year}"
+  },
+  "types": {
+    "eyebrow": "¿Qué celebráis?",
+    "title": "Cada celebración tiene su propia producción",
+    "cta": "Consultar fecha",
+    "items": [
+      { "id": "wedding", "name": "Bodas", "text": "Recepción, decoración del salón, entradas y espectáculos, y toda la noche en buenas manos." },
+      { "id": "bar", "name": "Bar mitzvá", "text": "La entrada del chico, un baile lento emocionante, una mesa dulce con su nombre y fiesta hasta el final." },
+      { "id": "bat", "name": "Bat mitzvá", "text": "Una temática en los colores que ella elija, un photocall, bailarinas y una mesa de postres elegante." },
+      { "id": "private", "name": "Eventos privados", "text": "Bienvenida de un bebé, cumpleaños, compromiso, henna o evento de empresa. Pequeños o grandes." }
+    ]
+  },
+  "services": {
+    "eyebrow": "Servicios",
+    "title": "Lo que hago por vosotros",
+    "text": "Podéis confiarme toda la producción, o solo lo que os falta. En cualquier caso, tenéis una única persona de contacto.",
+    "from": "Desde {price}",
+    "onRequest": "Precio a consultar",
+    "cta": "Consultar fecha",
+    "items": [
+      { "id": "full", "name": "Producción completa", "text": "De la primera reunión al final de la noche: concepto, presupuesto, proveedores, horarios y dirección del evento." },
+      { "id": "dayof", "name": "Coordinación del día", "text": "¿Lo habéis contratado todo vosotros? Llego antes que nadie, coordino a los proveedores y mantengo los horarios." },
+      { "id": "design", "name": "Decoración y diseño", "text": "Mesas dulces, letras gigantes, photocalls, arcos y globos, en vuestros colores y vuestro estilo." },
+      { "id": "vendors", "name": "Gestión de proveedores", "text": "DJ, fotógrafos, catering, bailarinas y artistas. Los conecto, los coordino y hago el seguimiento de todos." }
+    ]
+  },
+  "blocks": [
+    { "id": "production", "eyebrow": "Producción de la A a la Z", "title": "Vosotros me contáis, yo me encargo del resto", "text": "Nos sentamos juntos, entiendo lo que os gusta y armamos un plan: concepto, presupuesto, proveedores y horarios. Vosotros aprobáis, yo coordino.", "cta": "Consultar fecha" },
+    { "id": "dayof", "eyebrow": "El gran día", "title": "El gran día, sin estrés", "text": "Estoy desde el primer momento: recibo a los proveedores, reviso cada rincón y marco el momento de las entradas y del baile lento. Vosotros solo disfrutáis.", "cta": "Cómo funciona" },
+    { "id": "design", "eyebrow": "Decoración y diseño", "title": "Pequeños detalles que provocan el «guau»", "text": "Una mesa dulce con el nombre de vuestro hijo, una pared de lentejuelas, esferas de espejo, flores y arcos. Cada decoración se crea desde cero.", "cta": "Ver nuestros eventos" }
+  ],
+  "events": {
+    "eyebrow": "Nuestros eventos",
+    "title": "Algunas de las celebraciones que he tenido la alegría de producir",
+    "text": "Tomados de los eventos que he publicado en Instagram. Cada tarjeta indica el tipo de evento, el lugar y el número de invitados.",
+    "filters": { "all": "Todos", "wedding": "Bodas", "bar": "Bar mitzvá", "bat": "Bat mitzvá", "private": "Privados" },
+    "types": { "wedding": "Boda", "bar": "Bar mitzvá", "bat": "Bat mitzvá", "private": "Evento privado" },
+    "guests": "{n} invitados",
+    "empty": "Muy pronto, fotos de las bodas que he producido. Mientras tanto, os envío ejemplos con gusto por WhatsApp.",
+    "filterLabel": "Filtrar por tipo de evento",
+    "more": "Más eventos en Instagram"
+  },
+  "about": {
+    "eyebrow": "Sobre mí",
+    "title": "Encantada, soy Liraz",
+    "p1": "Desde hace años produzco bar y bat mitzvá, bodas y fiestas privadas, junto a Kobi Bar, el DJ de «Zoog Event Productions». De la decoración a la música, todo bajo un mismo techo.",
+    "p2": "Lo que más me importa es hacer realidad vuestro sueño: escuchar, cuidar cada detalle y estar a vuestro lado hasta el último baile.",
+    "caption": "Liraz trabajando, montando una mesa dulce para un bat mitzvá",
+    "cta": "Hablemos"
+  },
+  "stats": { "followers": "seguidores en Instagram", "posts": "publicaciones de eventos", "since": "Produciendo desde", "events": "eventos producidos" },
+  "process": {
+    "eyebrow": "Cómo funciona",
+    "title": "Cinco pasos hasta la gran noche",
+    "steps": [
+      { "title": "Primera llamada", "text": "Me contáis el evento, la fecha y lo que os importa. Compruebo mi disponibilidad." },
+      { "title": "Reunión e ideas", "text": "Nos vemos, hablamos de estilo, colores y presupuesto, y os propongo un concepto." },
+      { "title": "Presupuesto", "text": "Un presupuesto claro, según lo que elijáis, sin sorpresas." },
+      { "title": "Preparativos y proveedores", "text": "Reservo y coordino a los proveedores, preparo los horarios y os mantengo al día." },
+      { "title": "El gran día", "text": "Estoy desde el montaje hasta el final, y vosotros celebráis." }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "Opiniones",
+    "title": "Lo que dicen las familias",
+    "source": "{source}, {date}",
+    "translated": "Traducido del hebreo",
+    "emptyText": "Pronto encontraréis aquí las opiniones de las familias que celebraron con nosotros. Mientras tanto, podéis ver los eventos, y los comentarios, en Instagram.",
+    "emptyCta": "Liraz en Instagram"
+  },
+  "faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Todo lo que queríais preguntar",
+    "items": [
+      { "q": "¿Con cuánta antelación hay que reservar?", "a": "Para bodas y bar o bat mitzvá en temporada alta, conviene escribir con unos meses de antelación. Aun así, vale la pena consultar una fecha cercana: enviadme un mensaje y os respondo." },
+      { "q": "¿En qué zonas trabajáis?", "a": "Sobre todo en el norte de Israel, y en todo el país previa consulta. Contadme dónde es el evento y lo vemos juntos." },
+      { "q": "¿Se puede contratar solo la coordinación del día?", "a": "Claro. Producción completa, solo coordinación del día, solo decoración, o la combinación que mejor os vaya." },
+      { "q": "¿Trabajáis con proveedores fijos?", "a": "Tengo proveedores con los que trabajo desde hace años, como el DJ Kobi Bar. Si ya habéis contratado los vuestros, también me coordino con ellos." },
+      { "q": "¿Cómo se reserva una fecha? ¿Hay que pagar una señal?", "a": "Cuando aprobáis el presupuesto, la fecha se reserva con una señal. El importe y las condiciones figuran en el presupuesto." },
+      { "q": "¿Nos vemos antes del evento?", "a": "Sí. Hay una primera reunión al principio, y otra reunión o una llamada detallada antes del evento para repasar cada detalle." }
+    ]
+  },
+  "book": {
+    "eyebrow": "Consultar fecha",
+    "title": "Contadme vuestro evento",
+    "text": "Unos pocos datos y os respondo sobre la fecha con una propuesta. El formulario llega directamente a mi WhatsApp.",
+    "steps": { "event": "El evento", "needs": "Lo que necesitáis", "contact": "Vuestros datos" },
+    "fields": {
+      "type": "Tipo de evento",
+      "types": { "wedding": "Boda", "bar": "Bar mitzvá", "bat": "Bat mitzvá", "private": "Evento privado" },
+      "date": "Fecha del evento",
+      "dateTaken": "Esta fecha ya está reservada. Enviad la solicitud igualmente, quizá encontremos una solución.",
+      "dateFree": "Esta fecha todavía está libre.",
+      "venue": "Lugar o salón",
+      "venuePlaceholder": "Nombre del salón o jardín, o «aún sin decidir»",
+      "city": "Ciudad",
+      "cityPlaceholder": "Ej.: Akko",
+      "guests": "Número de invitados",
+      "needs": "¿En qué puedo ayudaros?",
+      "needsList": { "full": "Producción completa", "dayof": "Coordinación del día", "design": "Decoración y diseño", "vendors": "Proveedores (DJ, foto, catering…)" },
+      "budget": "Presupuesto aproximado",
+      "budgetPlaceholder": "Ej.: 20.000 ₪",
+      "optional": "opcional",
+      "name": "Nombre completo",
+      "phone": "Teléfono",
+      "message": "Algo más que deba saber",
+      "messagePlaceholder": "Temática, colores, inspiración…"
+    },
+    "required": "Campo obligatorio",
+    "invalidPhone": "Este número de teléfono no parece correcto",
+    "submit": "Enviar por WhatsApp",
+    "hint": "WhatsApp se abre con el mensaje listo. Solo tenéis que pulsar «enviar».",
+    "success": {
+      "thanks": "Gracias",
+      "title": "Vuestro mensaje está listo en WhatsApp",
+      "text": "Si WhatsApp no se ha abierto, usad el botón de abajo. Os respondo enseguida.",
+      "again": "Abrir WhatsApp de nuevo",
+      "reset": "Nueva solicitud"
+    },
+    "message": {
+      "title": "Consulta de fecha desde la web",
+      "type": "Tipo de evento",
+      "date": "Fecha",
+      "venue": "Lugar / salón",
+      "city": "Ciudad",
+      "guests": "Invitados",
+      "needs": "Necesita",
+      "budget": "Presupuesto",
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "message": "Comentarios",
+      "closing": "¡Gracias, quedo a la espera de tu respuesta!"
+    }
+  },
+  "mobile": { "check": "Consultar fecha", "whatsapp": "WhatsApp" },
+  "whatsapp": { "hello": "Hola Liraz, vengo de tu web y me gustaría consultar una fecha para un evento.", "float": "Escribir a Liraz por WhatsApp" },
+  "footer": {
+    "tagline": "Producción de eventos, bodas, bar y bat mitzvá y decoración, con cariño y precisión.",
+    "contact": "Contacto",
+    "explore": "En la web",
+    "regions": "Zonas",
+    "rights": "Todos los derechos reservados",
+    "photos": "Fotos de eventos que hemos producido",
+    "legal": "Aviso legal"
+  },
+  "legal": {
+    "title": "Aviso legal",
+    "back": "Volver al inicio",
+    "items": [
+      { "h": "Titular", "p": "Liraz Bar, producción de eventos. Teléfono: +972 52-437-8733. (Datos completos de la empresa: por completar)" },
+      { "h": "Alojamiento", "p": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, Estados Unidos." },
+      { "h": "Privacidad", "p": "La web no guarda los datos que escribís en el formulario. El mensaje se abre en vuestro propio WhatsApp y vosotros decidís si enviarlo. Sin cookies publicitarias ni de seguimiento." },
+      { "h": "Fotos", "p": "Todas las fotos de la web son de eventos producidos y decorados por Liraz. No las copiéis sin permiso." }
+    ]
+  },
+  "alt": {
+    "slow-etincelles": "Un baile lento en un bar mitzvá, entre chispas frías y humo bajo",
+    "arches-bar-mitzvah": "Arcos blancos iluminados y una mesa de postres negra para un bar mitzvá",
+    "bar-mitzvah-noir-or": "Mesa dulce negra y dorada con globos y un cartel de bar mitzvá 13",
+    "bat-mitzvah-bar-rose": "Mesa dulce rosa para un bat mitzvá con flores y tarros de caramelos",
+    "bat-mitzvah-oriya": "Letras gigantes de lentejuelas con el nombre Oriya en un salón decorado",
+    "bar-mitzvah-roman": "Pared de lentejuelas plateadas con el nombre Roman y el número 13",
+    "bat-mitzvah-peleg": "Entrada de un bat mitzvá con arcos blancos y velas",
+    "bat-mitzvah-leann": "Gran corazón de flores blancas con el nombre Leann y el número 12 en un jardín",
+    "bat-mitzvah-carrosse": "Carroza blanca y mesa dulce morada para un bat mitzvá",
+    "bar-mitzvah-eliav": "Mesa dulce personalizada en negro, oro rosa y blanco para un bar mitzvá",
+    "bar-mitzvah-elad": "Letras de madera iluminadas y una estrella de David luminosa en un bar mitzvá",
+    "bar-mitzvah-amit": "Cubos con letras, un reloj y columnas blancas en un bar mitzvá",
+    "bat-mitzvah-shay": "Confeti blanco cayendo sobre la pista de baile en un bat mitzvá",
+    "bat-mitzvah-noa": "Arco de globos rosa y dorado con el nombre Noa",
+    "mur-sequins-or": "Photocall de lentejuelas doradas y un vestido blanco",
+    "welcome-baby-girl": "Arco de globos rosa y un fondo «Welcome little princess»",
+    "full-moon-party": "Mesa de postres luminosa y globos neón para una fiesta Full Moon",
+    "gala-lfa": "Letras gigantes y esferas de espejo en la gala de la escuela LFA",
+    "bar-sucre-roses": "Mesa dulce con rosas, fruta y golosinas en cuencos dorados",
+    "spheres-miroir": "Esferas de espejo gigantes en un jardín, en la noche de un bat mitzvá",
+    "artiste-led": "Artista con abanico de luces LED y traje de espejos",
+    "bar-ballons-rose": "Mesa dulce rosa con arco de globos en tonos empolvados",
+    "danseuses-bat-mitzvah": "Bailarinas con trajes blancos brillantes en un bat mitzvá",
+    "liraz-bar-sucre": "Liraz montando una mesa dulce para un bat mitzvá"
+  }
+}

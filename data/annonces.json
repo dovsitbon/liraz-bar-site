@@ -1,0 +1,11 @@
+{
+  "_note": "Bandeau d'infos pratiques (fermable). Passer active à false pour le masquer ; changer id pour le réafficher à tous. Texte À CONFIRMER avec Liraz.",
+  "id": "2027-dates",
+  "active": true,
+  "text": {
+    "he": "תאריכים לעונת 2027 פתוחים להזמנה · פגישת היכרות ללא התחייבות",
+    "en": "2027 season dates are open for booking · First meeting with no commitment",
+    "fr": "Les dates de la saison 2027 sont ouvertes · Premier rendez-vous sans engagement",
+    "es": "Fechas de la temporada 2027 abiertas · Primera reunión sin compromiso"
+  }
+}

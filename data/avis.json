@@ -1,0 +1,4 @@
+{
+  "_note": "À REMPLIR avec de vrais avis clients : { id, name (hébreu), nameLatin, source, url, date AAAA-MM, event, text: { he, en, fr, es } } (traductions signalées sur le site). N'en inventer aucun. Tant que la liste est vide, la section renvoie vers ses événements sur Instagram.",
+  "items": []
+}
