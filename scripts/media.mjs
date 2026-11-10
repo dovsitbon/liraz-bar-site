@@ -85,7 +85,7 @@ for (const [n, name] of RESERVE) await copyFile(path.join(ROOT, "assets", R(n)),
 for (const dir of ["a-recevoir/photos", "a-recevoir/videos", "a-recevoir/logo"]) await mkdir(path.join(ROOT, "assets", dir), { recursive: true });
 
 // Image de partage (Open Graph) 1200 × 630
-await sharp(path.join(ROOT, "assets", R("02")))
+await sharp(path.join(ROOT, "public/media/hero/slow-etincelles.jpg"))
   .resize(1200, 630, { fit: "cover", position: "centre" })
   .jpeg({ quality: 82, mozjpeg: true })
   .toFile(path.join(ROOT, "public/og.jpg"));
